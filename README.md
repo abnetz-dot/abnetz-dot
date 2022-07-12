@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abnetz-dot
 - 👀 I’m interested in Python, HTML, CSS & JavaScript 
-- 🌱 I’m currently learning Python, HTML & CSS 
+- 🌱 I’m currently learning Python, HTML, CSS & JavaScript 
 - 💞️ I’m looking to collaborate on Python, HTML & CSS 
 - 📫 How to reach me @abnetz2011@gmail.com
 
